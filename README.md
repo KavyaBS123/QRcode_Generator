@@ -10,6 +10,9 @@ The QR Code Generator is a web application designed to quickly create custom QR 
 - **Multi-Data Support:** Generate QR codes for URLs, text, and more.
 - **User-Friendly Interface:** Simple and intuitive design for easy use.
 
+
+![image](https://github.com/user-attachments/assets/19108b76-470b-44f9-8c2b-cc34567a9f40)
+
 ## Installation
 
 To run the QR Code Generator locally, follow these steps:
